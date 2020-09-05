@@ -25,9 +25,4 @@ working browser
 - React
 
 ## Contributers
-
-- Marian Gude
-- Mike Haber
-- Justin Ramirez
-- Camrynne Sullivan
-- Jessica Perez
+Tanmay Sarker
